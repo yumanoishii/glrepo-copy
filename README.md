@@ -30,3 +30,11 @@ Copyright (C) 2017 Gavin Lyons
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public license published by
 the Free Software Foundation. [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+Edits
+----------------------------
+  * Updated to jekyll 3.7.3
+  * Added head.html (default)
+  * added the icon html files (github and twitter) in includes folder
+  * small minor tweaks with YUPDATE comments
+  
